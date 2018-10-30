@@ -1,8 +1,7 @@
 # JS_Clock
 ## Day#2 Of 30 Day Vanilla JS Coding Challenge: The Clock
 
-Javascript Drum Kit plays sound associated with the key displayed on the screen when pressed on the keyboard.
-
+Javascript Clock uses the current time in jvascript and uses CSS properties to move the second, minute and hour hands accordingly.
 
 
 ### **#JavaScript30**
