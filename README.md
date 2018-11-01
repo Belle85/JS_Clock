@@ -3,7 +3,7 @@
 
 Javascript Clock uses the current time in jvascript and uses CSS properties to move the second, minute and hour hands accordingly.
 
-![Homepage Image] (https://github.com/Belle85/JS_Clock/blob/master/assets/image/Homepage.PNG)
+![Homepage Image](https://github.com/Belle85/JS_Clock/blob/master/assets/image/Homepage.PNG)
 
 ### **#JavaScript30**
 30 Day Vanilla JS Coding Challenge : https://javascript30.com/
